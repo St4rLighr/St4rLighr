@@ -23,7 +23,7 @@
 
 ### Tech Stack 🤖
 <div align= "center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,sqlite,gcp,github">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,html,mysql,sqlite,gcp,github">
 </div>
   
 ---
@@ -32,7 +32,9 @@
 <div align= "center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4rLighr&layout=compact&theme=dracula&langs_count=5&card_width=320hide_progress=true"/>
   &nbsp
-  <img height=200 margin=10 src="https://github.r2v.ch/codewars?user=_solarr&name=true&top_language&theme=nightowl"/>
+  <img height=200 margin=10 src="https://github.r2v.ch/codewars?user=_solarr&name=true&top_language&theme=purple_dark"/>
+  &nbsp
+  <img src="https://streak-stats.demolab.com?user=St4rLighr&theme=dracula&mode=weekly&card_width=420&card_height=200&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak"/>
   
 </div>
 
