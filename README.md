@@ -1,4 +1,12 @@
 <div id = "header" align= "center">
+  <img src="https://giffiles.alphacoders.com/297/2970.gif" alt="cat typing">
+  
+  <div id = "badges" align= "center">
+    <a href="https://www.codewars.com/users/_solarr"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="codewars button"/></a>
+    &nbsp
+    <a href="https://www.linkedin.com/in/simi-ibraheem/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin button"/></a>  
+
+  </div>
   
   <h1>Hiya! I'm Simi 🧚🦉</h1>
   
@@ -14,10 +22,19 @@
 ---
 
 ### Tech Stack 🤖
+<div align= "center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,sqlite,gcp,github">
+</div>
   
 ---
   
 ### My Stats ⛹️‍♀️
+<div align= "center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4rLighr&layout=compact&theme=dracula&langs_count=5&card_width=320hide_progress=true"/>
+  &nbsp
+  <img height=200 margin=10 src="https://github.r2v.ch/codewars?user=_solarr&name=true&top_language&theme=nightowl"/>
+  
+</div>
 
 
 <div align= "center">
@@ -25,6 +42,11 @@
 </div>
 
 <!--
+<a href="xxx"><img src="" alt=""/></a>
+
+    &nbsp
+    <a href="ghost-ing.page"><img src="" alt=""/></a>
+
 **St4rLighr/St4rLighr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
