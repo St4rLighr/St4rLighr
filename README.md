@@ -15,15 +15,14 @@
 
 ### About me 💬
 - 💻 Interested in Data Analytics & Digital Marketing
-- 🐍 Currently evolving my Python skills
-- 📈 Continuous Learner – Always looking to level up my skills 💪
+- 🐍 Currently evolving my Python skills 💪
 - 🎮 Fun Fact – When I’m not scrolling through TikTok, you’ll find me exploring worlds in <b><i> Genshin Impact </i></b> or <b><i>The Legend of Zelda</i></b>!
   
 ---
 
 ### Tech Stack 🤖
 <div align= "center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,html,mysql,sqlite,gcp,github">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,html,mysql,gcp,github">
 </div>
   
 ---
